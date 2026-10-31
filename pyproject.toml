@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "session2md"
+version = "0.1.0"
+description = "Export Claude Code, T3 Code, and Codex conversations to an Obsidian vault"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+session2md = "session2md.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["session2md*"]
+
+[tool.setuptools.package-data]
+session2md = ["static/*"]

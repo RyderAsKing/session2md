@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "files": {
+    "Chats/Claude Code/Building a calmer reading experience--88c8a6f01922fb14.md": "7e0645e7afcb4a84637a7dd93c459624b75c1ecac51a5aace912d0703b288c0a",
+    "Chats/T3 Code/A reliable sync queue--33cf7c959d90e5bc.md": "05d3012269b79c50d26f15e2d70b0e12f9d94b983fc626d8b4a6b370af71d828",
+    "Chats/Codex/Notes on learning in public--d2c3d6d9e36bdc0b.md": "6d8b60f1ecba83a5b4172397c4fde3c057a963cb0156fbd772d6c94e7cc483d8",
+    "Indexes/Months/2026-10.md": "cb94cd58ecc664fe37f41c92d82a3dd75365be03540321af98b1bd694fdefa68",
+    "Indexes/Projects/Reading app--883d7e4fab3e.md": "803fc663d01ac70478fed1ccee07c35c26a9585a3076c09bd70343d133fb220d",
+    "Indexes/Sources/Claude Code.md": "ddfb43096692e3a5564810a2168576c433f6eaa35304bc5bd5ccb0c173f3f26a",
+    "Indexes/Sources/Codex.md": "6dd6be9162b3da794ab683b32ebf6f40101056b1f2111ece71ac566d775ed6c4",
+    "Indexes/Sources/T3 Code.md": "3a7dfeea21f2241c7f9d0c4c478bc00664afaea32f89e90e33c314347da91646",
+    "session2md home.md": "b14d6eaeb4f5840844a45504de376b80c6cc70334f1c48da005e6448f094b50b",
+    ".obsidian/snippets/session2md.css": "7b781516cdf48efa9f3144277950671a60329e11b0a172dd93fc6afac9b7819b",
+    "session2md privacy report.md": "32503c281c6952363e74d0f4149803f12fe9e2aa104837687ea65b4e492d4467"
+  },
+  "chats": {
+    "claude:e3e2427efd1e1cac7e940e9be45b00372df370411ef825fa3391e3cc471ac8a2": {
+      "path": "Chats/Claude Code/Building a calmer reading experience--88c8a6f01922fb14.md",
+      "title": "Building a calmer reading experience",
+      "source": "claude",
+      "project": "Reading app",
+      "workspace": "",
+      "project_root": "",
+      "created": "2026-10-28T09:30:00Z",
+      "updated": "2026-10-28T09:33:00Z",
+      "messages": 3,
+      "parent": ""
+    },
+    "t3:62e6a68a6177d9588cee42b194e5d2429a0c8db96f1b7e9b0e81612e69b6a8b2": {
+      "path": "Chats/T3 Code/A reliable sync queue--33cf7c959d90e5bc.md",
+      "title": "A reliable sync queue",
+      "source": "t3",
+      "project": "Reading app",
+      "workspace": "",
+      "project_root": "",
+      "created": "2026-10-29T14:00:00Z",
+      "updated": "2026-10-29T14:01:00Z",
+      "messages": 2,
+      "parent": ""
+    },
+    "codex:91525168562cd8527b3bc6053786ac642038ced76c2f20c2b674136a47698778": {
+      "path": "Chats/Codex/Notes on learning in public--d2c3d6d9e36bdc0b.md",
+      "title": "Notes on learning in public",
+      "source": "codex",
+      "project": "",
+      "workspace": "",
+      "project_root": "",
+      "created": "2026-10-30T17:00:00Z",
+      "updated": "2026-10-30T17:01:00Z",
+      "messages": 2,
+      "parent": ""
+    }
+  },
+  "policy": "6b897ef5aa3bc63eb3714dce2ca615546951d1f562b97ccb7a0cd4d122acbf8a"
+}

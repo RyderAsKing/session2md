@@ -1,0 +1,9 @@
+/* Enable in Obsidian → Settings → Appearance → CSS snippets. */
+.session2md-chat { --file-line-width: 780px; --line-height-normal: 1.75; }
+.session2md-chat .markdown-preview-section > div > h1 { letter-spacing: -.035em; line-height: 1.15; margin-bottom: .8em; }
+.session2md-chat h3 { font-family: var(--font-monospace); font-size: .82em; letter-spacing: .025em; color: var(--text-accent); border-top: 1px solid var(--background-modifier-border); padding-top: 1.8em; margin-top: 2.5em; }
+.session2md-chat pre { border: 1px solid var(--background-modifier-border); border-radius: 10px; }
+.session2md-chat .callout { border-radius: 10px; }
+.session2md-home h1 { letter-spacing: -.04em; }
+.session2md-home h2 { margin-top: 2em; border-bottom: 1px solid var(--background-modifier-border); padding-bottom: .4em; }
+.session2md-home li { margin-block: .4em; }
